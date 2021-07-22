@@ -1,0 +1,20 @@
+{
+  "CHANNEL": "TEST1",
+  "PAYLOAD": {
+    "response_code": "0000",
+    "merchant_category_code": "6969",
+    "system_time": "1612280213",
+    "terminal_id": "112233445566",
+    "capture_mode": "ECOM",
+    "request_time": "1612255011",
+    "merchant": "APPLE.COM/BILL         ITUNES.COM    IRL",
+    "balance": 0,
+    "amount": 123,
+    "tracking_number": "123123123123123",
+    "transaction_time": "1612273011",
+    "reference": "ref.334d",
+    "transaction_id": "613455",
+    "type": "deduct authorisation",
+    "campaign": "CID123456-65432-1234456"
+  }
+}
