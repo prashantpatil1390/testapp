@@ -1,0 +1,4 @@
+files:
+  - source: /
+    destination: /var/www/www.ruchafarmhouse.com/html/
+    
